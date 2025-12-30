@@ -1,0 +1,23 @@
+.container{
+    background-color: #F9FAFB;
+}
+
+
+.upload_files{
+    display: flex;
+}
+.upload{
+    padding: 20px;
+    width: 65%;
+    height: 60vh;
+}
+.upload_box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60%;
+    width: 100%;
+    border: 3px dotted grey;
+    border-radius: 8px;
+}

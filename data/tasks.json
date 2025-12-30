@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Learn Flask",
+        "estimated_time": "1 hour",
+        "priority": "high",
+        "status": "todo"
+    },
+    {
+        "title": "Build AI agent",
+        "estimated_time": "2 hours",
+        "priority": "high",
+        "status": "todo"
+    },
+    {
+        "title": "Add task learn flask",
+        "estimated_time": "unknown",
+        "priority": "medium",
+        "status": "todo"
+    },
+    {
+        "title": "Show my tasks",
+        "estimated_time": "unknown",
+        "priority": "medium",
+        "status": "todo"
+    },
+    {
+        "title": "Show my tasks",
+        "estimated_time": "unknown",
+        "priority": "medium",
+        "status": "todo"
+    },
+    {
+        "title": "I need to finish my chemistry homework",
+        "estimated_time": "unknown",
+        "priority": "medium",
+        "status": "todo"
+    },
+    {
+        "title": "Add task finish AI project",
+        "estimated_time": "unknown",
+        "priority": "medium",
+        "status": "todo"
+    },
+    {
+        "title": "Add task revise notes",
+        "estimated_time": "unknown",
+        "priority": "medium",
+        "status": "todo"
+    },
+    {
+        "title": "Add task finish AI Agent  project",
+        "estimated_time": "unknown",
+        "priority": "medium",
+        "status": "todo"
+    },
+    {
+        "title": "Add task revise notes",
+        "estimated_time": "unknown",
+        "priority": "medium",
+        "status": "todo"
+    },
+    {
+        "title": "Add task watch lectures",
+        "estimated_time": "unknown",
+        "priority": "medium",
+        "status": "todo"
+    },
+    {
+        "title": "I need to finish my chemistry homework",
+        "estimated_time": "unknown",
+        "priority": "medium",
+        "status": "todo"
+    },
+    {
+        "title": "add task complete coding project",
+        "estimated_time": "unknown",
+        "priority": "medium",
+        "status": "todo"
+    },
+    {
+        "title": "I need to finish my AI project today",
+        "estimated_time": "unknown",
+        "priority": "medium",
+        "status": "todo"
+    }
+]
